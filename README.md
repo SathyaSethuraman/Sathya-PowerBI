@@ -10,4 +10,7 @@ POWER BI DASHBOARDS CREATED AS PART OF LEARNING ASSIGNMENTS
 
 <img width="1257" height="776" alt="{56C232F9-CD02-4820-826E-DAAD3C582E52}" src="https://github.com/user-attachments/assets/4aa50e4c-ff25-4dcc-941e-11a3e8bc2ce7" />
 
+<img width="1448" height="630" alt="{45774996-72AA-40E2-AC20-7988518CB9D9}" src="https://github.com/user-attachments/assets/b93ea4a4-358f-4d6a-b3b4-920a925125bb" />
+
+
 
